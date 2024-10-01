@@ -10,7 +10,6 @@ I am a Web Designer and Developer in training. I was born in Tønsberg, Norway a
   
 </details>
 
->[chrisnordrum.com](https://chrisnordrum.com/)
 <!--
 **NordrumDesigns/NordrumDesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
