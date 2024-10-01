@@ -1,4 +1,4 @@
-# Hello, world! 👋
+# Hi, I'm Chris Nordrum! 👋
 I am a Web Designer and Developer in training. I was born in Tønsberg, Norway and have lived in Canada since 2005. I love cars, watches, and anything mechanical—so everything digital is a little new to me. I am excited to start coding and contributing to the community!
 >[chrisnordrum.com](https://chrisnordrum.com/)
 <!--
