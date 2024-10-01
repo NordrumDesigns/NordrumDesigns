@@ -8,6 +8,7 @@ I am a Web Designer and Developer in training. I was born in Tønsberg, Norway a
 - 🔭 I’m currently working on my Interactive Design Diploma at SAIT.
 - 🌱 I’m currently learning HTML5, CSS, JavaScript, and Version Control.
 - 📫 How to reach me: [@nordrumdesigns](https://www.instagram.com/nordrumdesigns/)
+- 🌐 My portfolio:
   
 </details>
 
